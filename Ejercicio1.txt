@@ -1,0 +1,3 @@
+o “Texto de ejemplo
+para la función de modificación del ejercicio 1 de la practica de Git de
+NxtGen.” 
